@@ -77,9 +77,9 @@
     },
     {
       "name": "Source 5 - open-epg.com India4",
-      "url": "https://www.open-epg.com/files/india4.xml",
-      "format": "xml",
-      "prefix": "openpgI4-",
+      "url": "https://www.open-epg.com/files/india1.xml.gz",
+      "format": "gz",
+      "prefix": "openpgI1-",
       "channels": [
         "B4U Movies.in",
         "B4U Music.in"
