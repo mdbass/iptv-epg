@@ -31,7 +31,7 @@ jobs:
         
     - name: Run EPG merger
       run: |
-        python scripts/merge_epg.py
+        python merge-epg.py
         
     - name: Check if EPG was generated
       run: |
